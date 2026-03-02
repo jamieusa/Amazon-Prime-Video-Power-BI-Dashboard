@@ -7,8 +7,8 @@ The objective of this project is to transform raw streaming platform data into c
 The dashboard provides an executive-level overview of Prime Video’s content distribution, genres, ratings, directors, and release trends.
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](exports/1.png)
-![Dashboard Preview](exports/2.png)
+![Dashboard Preview](exports/1.jpeg)
+![Dashboard Preview](exports/2.jpeg)
 
 ## 🔍 Key Insights
 The dashboard presents the following analyses:
